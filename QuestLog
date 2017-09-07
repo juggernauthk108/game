@@ -1,0 +1,7 @@
+HvMv1.3
+{
+Objective 1:
+Change flag to
+int flag = (new Random().nextInt()%2>0)?1:-1
+in GameController
+}
