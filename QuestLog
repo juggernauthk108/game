@@ -13,7 +13,15 @@
 
 ==========================================Minor Quests==========================================
 
-HvMv1.4
+HvMv1.6
+{
+Objective 1:
+Make information regarding tile objects available on hover.
+}
+
+========================================Completed Minor Quests========================================
+
+HvMv1.4 [Log updated @Hvmv1.6]
 {
 Objective 1:
 Make buttons clickable instead of just text for Mode changing.
@@ -21,9 +29,7 @@ Objective 2:
 Add upgrade character button
 }
 
-========================================Completed Minor Quests========================================
-
-HvMv1.3 to Hvmv1.4
+HvMv1.3  [Log updated @Hvmv1.4]
 {
 Objective 1:
 Change flag to
