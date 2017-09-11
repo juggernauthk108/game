@@ -1,0 +1,63 @@
+@CHARSET "ISO-8859-1";
+@import url('https://fonts.googleapis.com/css?family=Bangers|Raleway');
+
+body
+{
+	margin:0;
+	padding:0;
+	background-color:#000;
+	font-family: Raleway;
+}
+
+.topBar
+{
+	text-align: center;
+	font-family: Bangers;
+	font-size: 8em;
+	color: white;
+	background-color: #000;
+	display:flex;
+	vertical-align:center;
+	justify-content: center;
+}
+
+.mainBox
+{
+	background-color: rgba(0,0,0,0.65);
+	color: #fff;
+	padding: 1em;
+	text-align: center;
+	margin-top: 3em;	
+}
+
+.mainBox a
+{
+	text-decoration: none;
+	color: #d442f4;	
+}
+
+.button
+{
+	text-align: center;
+	display:block;
+	padding: 0.5em;
+	width: 40%;
+	background-color: #821616;
+	margin: 0 auto;
+	margin-top: 1em;
+	font-size: 2em;
+	box-shadow: 0 0 5px #000; 
+}
+
+.button:hover
+{
+	box-shadow: 0 0 5px #FFDF00;
+	background-color: #590a0a;
+}
+
+.button a
+{
+	text-decoration: none;
+	color: white;
+	font-size: 2em;	
+}
