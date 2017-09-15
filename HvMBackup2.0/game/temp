@@ -1,0 +1,10 @@
+<!-- ----------------------------------------------INFORMATION STAT BOX-------------------------------------------------------- -->		
+
+<div class="informationBox">
+	<div class="insideActionBox">
+		<b>Information (you might use):&nbsp;</b> 
+	</div>
+	<div id="charStatsBox" class="insideActionBox">
+		Info
+	</div>
+</div>

@@ -1,0 +1,44 @@
+==========================================Global Quests=========================================
+
+1. Game Economy
+2. Terrains: Either it will reduce movementRange or be Non Jumpable or be not traversable.
+3. Resources on map deposition* pattern.
+4. canJump() boolean to be implemented.
+5. [1] NETWORKING!
+6. [3] Creating Progress Tree or Level Up Tree: Sub-species of monsters and humans.
+7. [4] Upgrade button to be added
+8. [2] Currently you can move only one character per turn. Change it so that you can move many characters per turn.
+9. [5] Attack logic to be implemented.
+10. Collect resource: would consume moves.
+
+==========================================Minor Quests==========================================
+
+HvMv1.6
+{
+Objective 1:
+Make information regarding tile objects available on hover.
+}
+
+========================================Completed Minor Quests========================================
+
+HvMv1.4 [Log updated @Hvmv1.6]
+{
+Objective 1:
+Make buttons clickable instead of just text for Mode changing.
+Objective 2:
+Add upgrade character button
+}
+
+HvMv1.3  [Log updated @Hvmv1.4]
+{
+Objective 1:
+Change flag to
+int flag = (new Random().nextInt()%2>0)?1:-1
+in GameController
+}
+
+==========================================Completed Global Quests=========================================
+
+
+==========================================Other Resources=========================================
+Open Source 8-bit Art: http://untamed.wild-refuge.net/rmxpresources.php?characters
