@@ -1,0 +1,2 @@
+keep the the class name as the attribute in the model classes of the creature, so that when selecting the upgradeTo creature in 
+upgrading the creature. This will remove the need of the "creatureHash" from the program.
